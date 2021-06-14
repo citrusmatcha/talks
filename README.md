@@ -1,4 +1,4 @@
-# talks
+# Talks
 Presentations, code samples featured in talks
 
 ## Greedy Algorithms
